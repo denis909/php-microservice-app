@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * @license MIT
+ * @author denis909
+ */
 namespace App\Config\Local;
 
 class Db extends \App\Config\Db

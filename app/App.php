@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * @license MIT
+ * @author denis909
+ */
 use App\Config\Local\Db as DbConfig;
 use App\Config\Local\View as ViewConfig;
 

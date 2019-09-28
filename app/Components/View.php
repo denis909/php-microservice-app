@@ -5,6 +5,6 @@
  */
 namespace App\Components;
 
-class DbMySQLiAdapter extends \denis909\db\MySQLiAdapter
+class View extends \denis909\view\View
 {
 }

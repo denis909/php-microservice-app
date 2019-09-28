@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * @license MIT
+ * @author denis909
+ */
 namespace App\Components;
 
 class ViewConfig extends \denis909\view\Config
