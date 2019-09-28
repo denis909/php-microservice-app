@@ -2,6 +2,6 @@
 
 ## Installing using Composer
 
-You can then install the application using the following commands:
+You can install the application using the following command:
 
 `composer create-project --stability=dev --prefer-dist denis909/php-microservice-app`
