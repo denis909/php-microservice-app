@@ -9,7 +9,7 @@ class ViewConfig extends \denis909\view\Config
     {
         if (!$this->templatesPath)
         {
-            $this->templatesPath = dirname(dirname(__DIR__)) . '/Templates';
+            $this->templatesPath = dirname(dirname(__DIR__)) . '/templates';
         }
 
         parent::__construct();

@@ -13,10 +13,10 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "App"
+            "App\\": "app"
         },
         "files": [
-            "App/App.php"
+            "app/App.php"
         ]
     }    
 }
