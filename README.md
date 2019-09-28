@@ -4,7 +4,7 @@
 
 You can install the application using the following command:
 
-`composer create-project --stability=dev --prefer-dist denis909/php-microservice-app`
+`composer create-project --stability=dev --prefer-dist --no-dev denis909/php-microservice-app`
 
 ## Components
 
