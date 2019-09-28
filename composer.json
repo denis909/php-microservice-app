@@ -1,5 +1,6 @@
 {
     "name": "denis909/php-microservice-app",
+    "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,    
     "require": {
